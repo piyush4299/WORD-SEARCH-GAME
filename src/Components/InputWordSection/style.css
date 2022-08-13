@@ -1,0 +1,21 @@
+.inputWordSection {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: no-wrap;
+}
+
+.inputWord {
+  padding: 0.5rem;
+  margin: 0.5rem;
+  margin-left: 0;
+}
+
+.submitBtn {
+  padding: 0.5rem;
+  margin: 0.5rem;
+}
+
+.resetBtn {
+  padding: 0.5rem;
+  margin: 0.5rem;
+}

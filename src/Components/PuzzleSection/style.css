@@ -1,0 +1,14 @@
+.puzzleSection {
+}
+
+.puzzleWord {
+  padding: 0.5rem;
+  text-align: center;
+  border-collapse: collapse;
+  border: 1px solid black;
+  border-spacing: 0;
+}
+
+.highlightCell {
+  background-color: blue;
+}
